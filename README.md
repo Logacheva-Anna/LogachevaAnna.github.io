@@ -17,7 +17,7 @@ LogachevaAnna.github.io
 ## Usecase diagram
 ![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%20%D1%80%D0%B0%D0%B1.%201/PLANTUML2.png)
 
-[Код]()
+[Код](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%20%D1%80%D0%B0%D0%B1.%201/PLANTUML2.txt)
 
 ## Лабораторная 2
 
