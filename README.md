@@ -10,7 +10,9 @@ LogachevaAnna.github.io
 Предложение: Швея Шьет Платье на Заказ из Ткани с помощью Ножниц, Иголок и Швейной машины.
 
 # PLANTUML - программное средство автоматической генерации UML-диаграмм
-![none]()
+## Class diagram
+![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%20%D1%80%D0%B0%D0%B1.%201/PLANTUML.png)
+
 
 ## Лабораторная 2
 
