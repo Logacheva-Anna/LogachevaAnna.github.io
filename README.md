@@ -19,8 +19,21 @@ LogachevaAnna.github.io
 
 [Код](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%20%D1%80%D0%B0%D0%B1.%201/PLANTUML2.txt)
 
-## Лабораторная 2
+## Лабораторная работа № 2
 
+## IDEF0 diagram
+Контекстная:
+![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/model2.png)
+
+Средний уровень:
+![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/model3.png)
+
+## DFD-диаграмма (блок:Управление):
+![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/model4.png)
+
+## Usecase diagram
+![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/Diag.png)
+[Код](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/Diag.txt)
 ## Лабораторная 3
 
 ## Лабораторная 4
