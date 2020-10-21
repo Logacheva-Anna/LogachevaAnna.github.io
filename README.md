@@ -1,43 +1,11 @@
 LogachevaAnna.github.io
-# Отчет о лабораторных работах
+
 # Группа [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07) Логачева А.О.
 
-## Лабораторная работа № 1
+## Домашние задания по [семинару 1](https://github.com/stankin/design-part-1/wiki/sem1#%D0%9C%D0%B0%D0%B7%D0%B8%D1%82%D0%BE%D0%B2-%D0%90%D0%B9%D0%BD%D1%83%D1%80) и [семинару 2](https://github.com/stankin/design-part-1/wiki/sem2#%D0%9C%D0%B0%D0%B7%D0%B8%D1%82%D0%BE%D0%B2-%D0%90%D0%B9%D0%BD%D1%83%D1%80-%D0%9C%D0%B8%D0%BB%D0%B5%D0%BD%D0%B0-%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D1%82%D0%BE%D0%B2%D0%B0)
 
-# RAMUS - программное средство разработки структурно-функциональных моделей
-Постановка задачи: Сшить платье
-![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%20%D1%80%D0%B0%D0%B1.%201/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20IDEF0-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B.png)
-Предложение: Швея Шьет Платье на Заказ из Ткани с помощью Ножниц, Иголок и Швейной машины.
+## [Отчет по лабораторным работам](https://github.com/AirNus/AirNus.github.io/wiki/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-1-3)
 
-# PLANTUML - программное средство автоматической генерации UML-диаграмм
-## Class diagram
-![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%20%D1%80%D0%B0%D0%B1.%201/PLANTUML.png)
+## Домашние задания по [семинарам 3-4]()
 
-[Код](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%20%D1%80%D0%B0%D0%B1.%201/PLANTUML.txt)
-## Usecase diagram
-![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%20%D1%80%D0%B0%D0%B1.%201/PLANTUML2.png)
-
-[Код](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%20%D1%80%D0%B0%D0%B1.%201/PLANTUML2.txt)
-
-## Лабораторная работа № 2
-
-## IDEF0 diagram
-Контекстная:
-![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/model2.png)
-
-Средний уровень:
-![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/model3.png)
-
-## DFD-диаграмма (блок:Управление):
-![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/model4.png)
-
-## Usecase diagram
-![none](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/Diag.png)
-[Код](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9B%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.%202/Diag.txt)
-## Лабораторная 3
-
-## Лабораторная 4
-
-## Лабораторная 5
-
-## Лабораторная 6
+## Рефераты: [разработанный]() и [проверенный]()
