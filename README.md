@@ -7,4 +7,4 @@
 ## Домашние задания по [семинарам 3-4](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B-3-4)
 
 
-## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam14-1) и [проверенный]()
+## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam14-1) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam04-2)
