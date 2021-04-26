@@ -1,0 +1,32 @@
+@startuml
+skinparam monochrome true
+hide circle
+hide methods
+
+left to right direction
+actor P1 as "Пользователь"
+actor P1_1 as "Сотрудник"
+P1 <|-- P1_1
+actor M1 as "Программный модуль"
+actor M1_2 as "Модуль загрузки данных"
+actor M1_3 as "Модуль обработки данных"
+M1_2 --|> M1
+M1_3 --|> M1
+
+package APP as "ИС формирования дневника внеучебных индивидуальных занятий" {
+  usecase F2 as "Ввод данных"
+  usecase F3 as "Добавление/изменение/удаление данных"
+  usecase F4 as "Настройка системы"
+  usecase F5 as "Контроль обработки"
+
+  P1_1 -- (F2)
+  P1_1 -- (F3)
+  P1_1 -- (F4)
+  P1_1 -- (F5)
+  (F2) -- M1_2
+  (F3) -- M1_2
+  (F3) -- M1_3
+  (F4) -- M1_3
+  (F5) -- M1_3
+}
+@enduml
