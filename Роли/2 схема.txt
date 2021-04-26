@@ -1,0 +1,17 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Роль
+
+Роль      <|-- "Студент"
+Роль   <|-- "УМУ"
+УМУ <|-- "Начальник УМУ"
+УМУ <|-- "Сотрудник УМУ"
+
+hide members
+hide circle
+hide methods
+@enduml
