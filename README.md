@@ -20,6 +20,6 @@
 
 ## [Курсовой проект](https://github.com/Logacheva-Anna/LogachevaAnna.github.io/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)
 
-## Лабораторные работы [Github Pages]()
+## Лабораторные работы [Github Pages]( https://logacheva-anna.github.io/LogachevaAnna/)
 
 ## Рефераты: [разработанный](https://github.com/stankin/design-part-2/wiki/exam11-5) и [проверенный](https://github.com/stankin/design-part-2/wiki/exam15-6)
