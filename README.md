@@ -1,5 +1,5 @@
 ## [Логачева Анна](https://github.com/Logacheva-Anna)
-## Группа ИДБ-17-07
+### Группа [ИДБ-17-07](https://github.com/stankin/design-part-2/wiki/list-idb-17-07)
 *** 
 
 ## 2020 [1 семестр](https://github.com/stankin/design-part-1)
