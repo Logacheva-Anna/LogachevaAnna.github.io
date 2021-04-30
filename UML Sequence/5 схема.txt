@@ -1,0 +1,19 @@
+@startuml
+skinparam monochrome true
+
+actor Студент as user
+participant "Информационная система" as system
+database "База данных" as base
+
+user -> system : Запрос на создание дневника
+activate system
+system -> base : Запрос необходимых данных
+activate base
+base -> system : Список данных
+system -> base : Заполнение дневника данными
+base -> system : Заполнение дневника
+system -> base : Сохранение дневника
+deactivate base
+system -> user : Созданный дневник
+deactivate system
+@enduml
